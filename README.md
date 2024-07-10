@@ -2,6 +2,10 @@
 
 This project is a user interface for managing a list of the world's most famous celebrities. The interface allows you to view, edit, and delete celebrity details while hiding their public presence.
 
+## Project Demonstration Video
+
+
+
 ## Features
 
 1. **User Interface**: The UI is designed based on the provided design specifications.
