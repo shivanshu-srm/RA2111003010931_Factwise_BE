@@ -3,8 +3,7 @@
 This project is a user interface for managing a list of the world's most famous celebrities. The interface allows you to view, edit, and delete celebrity details while hiding their public presence.
 
 ## Project Demonstration Video
-
-
+https://github.com/shivanshu-srm/RA2111003010931_Factwise_BE/assets/103733101/31d82d53-ec87-4520-bf56-76308ae0fc7a
 
 ## Features
 
